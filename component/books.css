@@ -1,0 +1,19 @@
+.book-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+
+.booklist{
+    width: 500px;
+    margin-left: 20px;
+}
+.booklist img{
+
+    width: 200px;
+}
+.show{
+    display: flex;
+    justify-content: center;
+}
